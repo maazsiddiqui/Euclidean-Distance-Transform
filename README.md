@@ -1,2 +1,2 @@
-# Euclidean-Distance-Transform
+# Euclidean Distance Transform
 Image processing - Euclidean Distance Transform
